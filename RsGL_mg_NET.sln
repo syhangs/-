@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsGL_mg_NET", "RsGL_mg_NET\RsGL_mg_NET.csproj", "{B2EDE29A-F3BC-4964-973A-6E9D8283345D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsGL_BAL", "RsGL_BAL\RsGL_BAL.csproj", "{3BA75B5C-7558-49EF-A465-7DD5C7EFA5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsGL_DAL", "RsGL_DAL\RsGL_DAL.csproj", "{5E11BCCA-626F-4DE5-A075-DD050F63120F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2EDE29A-F3BC-4964-973A-6E9D8283345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EDE29A-F3BC-4964-973A-6E9D8283345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EDE29A-F3BC-4964-973A-6E9D8283345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EDE29A-F3BC-4964-973A-6E9D8283345D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA75B5C-7558-49EF-A465-7DD5C7EFA5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA75B5C-7558-49EF-A465-7DD5C7EFA5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA75B5C-7558-49EF-A465-7DD5C7EFA5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA75B5C-7558-49EF-A465-7DD5C7EFA5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E11BCCA-626F-4DE5-A075-DD050F63120F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E11BCCA-626F-4DE5-A075-DD050F63120F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E11BCCA-626F-4DE5-A075-DD050F63120F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E11BCCA-626F-4DE5-A075-DD050F63120F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB80147-6BAD-4A26-9A69-D54224BCC14D}
+	EndGlobalSection
+EndGlobal
